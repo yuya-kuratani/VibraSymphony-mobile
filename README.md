@@ -15,7 +15,7 @@
 > [!IMPORTANT]
 > このリポジトリは**スマートフォン (Android) 側**のプログラムになります。
 > 
-> このリポジトリは、**[VibraSymphony-moble リポジトリ](https://github.com/yuya-kuratani/VibraSymphony-core)と連携して**利用するものとなっています。
+> このリポジトリは、**[VibraSymphony-core リポジトリ](https://github.com/yuya-kuratani/VibraSymphony-core)と連携して**利用するものとなっています。
 
 &nbsp;  
 
