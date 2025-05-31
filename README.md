@@ -39,16 +39,28 @@
 &nbsp;  
 
 ## ■ デモ
-実際に
+実際のアプリ画面のイメージです。
 
+<img width="60%" alt="vibra-symphony-mobile_preview" src="https://github.com/user-attachments/assets/e39b28cf-27bc-4893-b40e-8425d0e0f93c" />
 
+&nbsp;  
+
+実際に振動時に発生するエフェクトの動画です。
+
+https://github.com/user-attachments/assets/a17a823b-45c0-4da2-99e3-e34d3beaf5c7
 
 &nbsp;  
 
 ## ■ 使用技術
-#### 3Dモデル
+#### UI効果
+* Shader Graph (Unity)
+
+#### 音符型3Dモデル
 * Blender
 
+#### 振動時エフェクト
+* Shader Graph (Unity)
+* VFX Graph (Unity)
 
 &nbsp;  
 
